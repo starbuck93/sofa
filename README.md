@@ -1,3 +1,5 @@
+Hi - glad you found your way to my forked repository. I am hosting my sofa url through cloudflare pages, so I guess you can use it? It's 100% free (*with purchase of fries and a drink), so you can do it too. 
+
 # SOFA 
 **S**imple **O**rganized **F**eed for **A**pple Software Updates
 
