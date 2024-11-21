@@ -37,7 +37,8 @@ features:
 
 <div>
   <p>👋 We’re thrilled to have you here!</p>
-  <p>If you find value in this project, consider showing your support by starring us on GitHub! 🌟</p>
+  <p>This website is actually a fork of the original created by the sysadmins at sasaustin.org, but check out the original https://sofa.macadmins.io/ as well.</p>
+  <p>If you find value in this project, consider showing your support by starring them on GitHub! 🌟</p>
   <div>
     <a class="github-button" href="https://github.com/macadmins/sofa" 
        data-icon="octicon-star" data-size="large" data-show-count="true" 
