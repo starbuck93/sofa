@@ -73,6 +73,7 @@ export default defineConfig({
     ],
     socialLinks: [
       { icon: 'github', link: 'https://github.com/macadmins/sofa' },
+      { icon: 'github', link: 'https://github.com/starbuck93/sofa' },
     ],
     footer: {
       message: 'Released under the Apache 2.0 License.',
