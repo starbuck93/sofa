@@ -13,6 +13,8 @@ Hello 👋,
 
 **SOFA** supports MacAdmins by efficiently tracking and surfacing information on updates for macOS and iOS. It consists of a machine-readable feed and user-friendly web interface, providing continuously up-to-date information on XProtect data, OS updates, and the details bundled in those releases.
 
+*This* website is actually a fork of the original created by the sysadmins at sasaustin.org, but check out the original https://sofa.macadmins.io/ as well.
+
 ## Web UI Overview
 
 ### OS Version Section
