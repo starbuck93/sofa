@@ -1,5 +1,5 @@
 {
-    "etag": "a260620803e6cc31130a5f5267ec709530824d3e683dccbf14fcd7d82172098b",
+    "etag": "5b6decfc88a447433810ffbbc6b0fe66acc2f96ee14e2425b7216964ab2a5d76",
     "data": {
         "PublicAssetSets": {
             "iOS": [
@@ -270,7 +270,7 @@
                 {
                     "ProductVersion": "18.2",
                     "Build": "22K155",
-                    "PostingDate": "2024-12-11",
+                    "PostingDate": "2025-01-08",
                     "ExpirationDate": "2025-04-08",
                     "SupportedDevices": [
                         "AppleTV11,1",
@@ -406,7 +406,7 @@
                 {
                     "ProductVersion": "18.2",
                     "Build": "22K6155",
-                    "PostingDate": "2024-12-11",
+                    "PostingDate": "2025-01-08",
                     "ExpirationDate": "2025-04-08",
                     "SupportedDevices": [
                         "AppleTV11,1",
@@ -1186,7 +1186,7 @@
                 {
                     "ProductVersion": "2.2",
                     "Build": "22N842",
-                    "PostingDate": "2024-12-11",
+                    "PostingDate": "2025-01-08",
                     "ExpirationDate": "2025-04-08",
                     "SupportedDevices": [
                         "RealityDevice14,1"
@@ -1195,7 +1195,7 @@
                 {
                     "ProductVersion": "2.2",
                     "Build": "22N6842",
-                    "PostingDate": "2024-12-11",
+                    "PostingDate": "2025-01-08",
                     "ExpirationDate": "2025-04-08",
                     "SupportedDevices": [
                         "RealityDevice14,1"
