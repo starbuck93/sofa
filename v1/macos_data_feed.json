@@ -1,5 +1,5 @@
 {
-    "UpdateHash": "9c8de799f2db16c3d1c1c3da3abd4085d1e4e17aa508459aa3b684c77f7c4275",
+    "UpdateHash": "4bef24b867dfc9f2e26821373a18572f77e7ccc74d311e183b1154a724dc85f0",
     "OSVersions": [
         {
             "OSVersion": "Sequoia 15",
@@ -109,7 +109,6 @@
                     "CVE-2025-24115": false,
                     "CVE-2025-24116": false,
                     "CVE-2025-24117": false,
-                    "CVE-2025-24166": false,
                     "CVE-2025-24136": false,
                     "CVE-2025-24101": false,
                     "CVE-2025-24096": false,
@@ -141,7 +140,7 @@
                 "ActivelyExploitedCVEs": [
                     "CVE-2025-24085"
                 ],
-                "UniqueCVEsCount": 60
+                "UniqueCVEsCount": 59
             },
             "SecurityReleases": [
                 {
@@ -251,7 +250,6 @@
                         "CVE-2025-24115": false,
                         "CVE-2025-24116": false,
                         "CVE-2025-24117": false,
-                        "CVE-2025-24166": false,
                         "CVE-2025-24136": false,
                         "CVE-2025-24101": false,
                         "CVE-2025-24096": false,
@@ -283,7 +281,7 @@
                     "ActivelyExploitedCVEs": [
                         "CVE-2025-24085"
                     ],
-                    "UniqueCVEsCount": 60,
+                    "UniqueCVEsCount": 59,
                     "DaysSincePreviousRelease": 47
                 },
                 {
@@ -1102,7 +1100,6 @@
                     "CVE-2025-24094": false,
                     "CVE-2025-24115": false,
                     "CVE-2025-24116": false,
-                    "CVE-2025-24166": false,
                     "CVE-2025-24136": false,
                     "CVE-2025-24130": false,
                     "CVE-2025-24146": false,
@@ -1121,7 +1118,7 @@
                     "CVE-2025-24156": false
                 },
                 "ActivelyExploitedCVEs": [],
-                "UniqueCVEsCount": 41
+                "UniqueCVEsCount": 40
             },
             "SecurityReleases": [
                 {
@@ -1214,7 +1211,6 @@
                         "CVE-2025-24094": false,
                         "CVE-2025-24115": false,
                         "CVE-2025-24116": false,
-                        "CVE-2025-24166": false,
                         "CVE-2025-24136": false,
                         "CVE-2025-24130": false,
                         "CVE-2025-24146": false,
@@ -1233,7 +1229,7 @@
                         "CVE-2025-24156": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 41,
+                    "UniqueCVEsCount": 40,
                     "DaysSincePreviousRelease": 47
                 },
                 {
@@ -3136,7 +3132,6 @@
                     "CVE-2025-24094": false,
                     "CVE-2025-24115": false,
                     "CVE-2025-24116": false,
-                    "CVE-2025-24166": false,
                     "CVE-2025-24136": false,
                     "CVE-2025-24130": false,
                     "CVE-2025-24146": false,
@@ -3153,7 +3148,7 @@
                     "CVE-2025-24156": false
                 },
                 "ActivelyExploitedCVEs": [],
-                "UniqueCVEsCount": 31
+                "UniqueCVEsCount": 30
             },
             "SecurityReleases": [
                 {
@@ -3237,7 +3232,6 @@
                         "CVE-2025-24094": false,
                         "CVE-2025-24115": false,
                         "CVE-2025-24116": false,
-                        "CVE-2025-24166": false,
                         "CVE-2025-24136": false,
                         "CVE-2025-24130": false,
                         "CVE-2025-24146": false,
@@ -3254,7 +3248,7 @@
                         "CVE-2025-24156": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 31,
+                    "UniqueCVEsCount": 30,
                     "DaysSincePreviousRelease": 47
                 },
                 {
